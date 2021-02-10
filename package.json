@@ -1,0 +1,20 @@
+{
+  "name": "observable-dark-theme",
+  "version": "1.0.0",
+  "description": "Script for enabling dark theme on observablehq.com",
+  "private" : true,
+  "scripts": {
+    "start": "http-server -c5",
+    "fast-reload": "http-server -c3"
+  },
+  "keywords": [
+    "observable",
+    "theme",
+    "dark"
+  ],
+  "author": "@mathprocessing",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
