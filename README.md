@@ -1,5 +1,5 @@
 # What it is?
-Is a dark theme for <observablehq.com>
+Is a dark theme for <https://observablehq.com>
 
 # How to use
 1. Install [Violentmonkey](https://violentmonkey.github.io/) extension
