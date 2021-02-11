@@ -23,9 +23,10 @@ Is a dark theme for <https://observablehq.com>
 Note: **You will need to reload browser after each script change.**
 
 ### Issues:
-* [ ] User don't see cursor
-* [ ] User don't see selected text
-* [ ] User don't see current working cell
+* [ ] User can't see cursor
+* [ ] User can't see selected text
+* [ ] User can't see current working cell
+* [ ] User can't see placeholders like `alt-backspace to delete`
 * [ ] Booleans are dark green, it's bad
 * [ ] Code completion (you can press **TAB** for code completion) use wrong background and text colors
 * [ ] Buttons! Publish, like, menu
