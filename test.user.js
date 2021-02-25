@@ -14,11 +14,11 @@ style.type = 'text/css';
 style.innerHTML = `
 :root {
   /* background colors */
-  --bg-color: #353535;
-  --pea-bg-color: #303030;
-  --pea-bg-hover-color: #333333;
-  --items-bg-color: #353535;
-  --button-bg-color: #353535;
+  --bg-color: #151515;
+  --pea-bg-color: #161616;
+  --pea-bg-hover-color: #202020;
+  --items-bg-color: #151515;
+  --button-bg-color: #151515;
 
   /* text colors */
   --text-color: #eee;
