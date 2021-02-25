@@ -1,5 +1,5 @@
 # What it is?
-Is a dark theme for <https://observablehq.com>
+It is a dark theme for <https://observablehq.com>
 
 # How to use
 1. Install [Violentmonkey](https://violentmonkey.github.io/) extension
@@ -23,6 +23,8 @@ Is a dark theme for <https://observablehq.com>
 Note: **You will need to reload browser after each script change.**
 
 ### Issues:
+* [ ] User can't see border line in markdown `---`
+* [ ] User can't see brackets that have red color
 * [ ] User can't see cursor
 * [ ] User can't see selected text
 * [ ] User can't see current working cell
